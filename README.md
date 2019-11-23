@@ -5,7 +5,7 @@ My own TSLint config that I use for my personal projects.
 ## Installation + configuration
 
 ```bash
-# Install mterczynski-tslint as dev dependency
+# Install mterczynski-tslint as dev dependency with npm:
 npm i -D mterczynski-tslint
 # or with Yarn:
 yarn add -D mterczynski-tslint
