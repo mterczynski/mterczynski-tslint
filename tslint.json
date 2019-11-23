@@ -1,7 +1,7 @@
 {
     "defaultSeverity": "warning",
     "extends": [
-        "mterczynski-tslint"
+        "tslint:recommended"
     ],
     "rules": {
         "indent": [
