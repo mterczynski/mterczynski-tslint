@@ -1,6 +1,6 @@
 {
   "name": "mterczynski-tslint",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "tslint.json",
   "author": {
 		"name": "Michal Terczynski",
