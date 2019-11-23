@@ -1,0 +1,17 @@
+{
+    "defaultSeverity": "warning",
+    "extends": [
+        "mterczynski-tslint"
+    ],
+    "rules": {
+        "indent": [
+            true,
+            "tabs"
+        ],
+        "quotemark": [
+            true,
+            "single"
+        ],
+        "member-access": [true, "no-public"]
+    }
+}
