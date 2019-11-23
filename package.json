@@ -2,7 +2,10 @@
   "name": "mterczynski-tslint",
   "version": "1.0.0",
   "main": "tslint.json",
-  "author": "mterczynski",
+  "author": {
+		"name": "Michal Terczynski",
+		"email": "mterczynski271@gmail.com"
+	},
   "license": "MIT",
   "repository": {
     "type" : "git",
