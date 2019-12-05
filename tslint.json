@@ -36,6 +36,7 @@
             }
         ],
         "newline-before-return": true,
+        "no-consecutive-blank-lines": true,
         "quotemark": [
             true,
             "single"
