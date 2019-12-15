@@ -38,6 +38,7 @@
         ],
         "newline-before-return": true,
         "no-consecutive-blank-lines": true,
+        "no-console": false,
         "number-literal-format": true,
         "quotemark": [
             true,
