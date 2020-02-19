@@ -49,6 +49,7 @@
               "check-format",
               "allow-leading-underscore"
             ]
-        }
+        },
+        "triple-equals": true
     }
 }
