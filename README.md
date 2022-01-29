@@ -2,6 +2,10 @@
 
 My own TSLint config that I use for my personal projects.
 
+## Deprecation note
+
+I am not maintaining this anymore because of TSLint deprecation.
+
 ## Installation + configuration
 
 ```bash
